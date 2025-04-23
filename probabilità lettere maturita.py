@@ -2,9 +2,9 @@ import random
 
 # The alphabet used
 ABC = list("abcdefghijklmnopqrstwxyz")
-# The Elenco is represented via innitials of everyone surname, the peaple we want to take as subject of observation have a "0" after the innitial
+# The Elenco is represented via innitials of everyone surname, the people we want to take as subject of observation have a "0" after the innitial
 ELENCO = ["a", "a", "b0", "b", "c", "c", "c", "c", "c", "c", "d", "d", "e", "g", "l", "l0", "m", "r", "r", "r", "s", "s0", "s"]
-# The number of peaple that take the exam every day
+# The number of people that take the exam every day
 PERSONE_PER_GIORNO = 5
 # The number of times we want to simulate the event
 N_OF_ITERATION = 1000000
